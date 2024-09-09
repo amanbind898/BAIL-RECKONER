@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 import asyncio
 
 load_dotenv()
-genai.configure(api_key="AIzaSyCKGqr2ctSxDcrFgr7fgzhAM8vQF-ZuAnM")
+genai.configure(api_key="Google_api_key")
 
 def get_pdf_text(pdf_docs):
     text = ""
