@@ -30,3 +30,16 @@ AI highlights key information and risk factors.
 Display decision support recommendations.
 Make a decision and update status.
 Automated notifications sent to relevant parties.
+# Screenshot 
+Homepage
+![Screenshot 2024-09-12 185644](https://github.com/user-attachments/assets/229d31f4-cbb1-4458-aa46-45514c1abba1)
+Undertrial Prisoner section
+![Screens![Screenshot (42)](https://github.com/user-attachments/assets/5004977d-8d18-46b1-8d91-215947db21cb)
+hot 2024-09-12 185826](https://github.com/user-attachments/assets/fac9ae17-6495-4c67-a081-e9d075708c9a)
+Lawyer Section
+![Uploading Screenshot (42).png…]()
+
+Judge-Section
+![Screenshot 2024-09-12 190108](https://github.com/user-attachments/assets/9546beea-a4f4-4d25-9cf3-2f3acb53ef55)
+
+
